@@ -14,4 +14,4 @@ a face to make the model more robust in situations when a face wasn't present in
 The final version of the model that I trained achieved an accuracy of 0.979. I suspect the model is biased against colored images, as only its negative training data contained colored images.
 
 Youtube-DL is used to download the youtube video, with OpenCV being used to feed frames of the video into the model in batches. I optimized the model to process the video at 6x the normal
-playback speed (the maximum that my friends had achieved while they were manually looking for Jerma was 5x the noraml playback speed). 
+playback speed (the maximum that my friends had achieved while they were manually looking for Jerma was 5x the normal playback speed). 
