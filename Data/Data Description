@@ -1,9 +1,9 @@
 To train my model, I used:
 
-1. Approximately 3000 images of Jerma, collected from Youtube, augmented.
+1. Over 3000 images of Jerma, collected from Youtube, augmented.
 2. LFW Dataset (can be found online but not in this repository), unaugmented.
 3. Random images from random Youtube videos without Jerma's face in them, augmented and unaugmented
 
 
-In this folder there is a folder containing unaugmented (but resized) images of Jerma, augmented images of Jerma, augmented negative training data, and unaugmented negative training data.
+In this folder there is a zip file of unaugmented, resized images of Jerma and a zip file of unaugmented negative training data.
 
