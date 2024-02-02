@@ -1,5 +1,7 @@
-# jermaDetector
-A Siamese Neural Network built to detect frames of Jerma in youtube videos.
+# Jerma Detector
+
+
+A Siamese Neural Network built to detect frames of Jerma in youtube videos. The URL for the repo is a link to a shared google drive folder that contains the assets folder, variables folder, fingerprint.pb, keras_metadata.pb, and saved_model.pb files, which were saved automatically by TensorFlow through the model.save() API.
 
 
 This project was built before I better understood the TensorFlow API, so some of the methods I used to create the model may seem a bit odd.
