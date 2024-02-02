@@ -1,7 +1,0 @@
-A Siamese Neural Network that was trained to detect grayscaled images of Jerma.
-
-
-This specific iteration was found suitable for detecting images of Jerma resized using "tf.image.resize(image, (100, 100))" at a 98% confidence threshold in Youtube videos.
-
-
-This folder contains everything Tensorflow saved of the model when "model.save(filepath)" was ran, namely an assets folder, a variables folder, fingerprint.pb, keras_metadata.pb, and saved_model.pb.

@@ -1,0 +1,7 @@
+The code for a Siamese Neural Network that was trained to detect grayscaled images of Jerma.
+
+
+This specific iteration was found suitable for detecting images of Jerma resized using "tf.image.resize(image, (100, 100))" at a 98% confidence threshold in Youtube videos.
+
+
+This folder contains the Google Colab notebook used to preprocess the data, create the model architecture, train the model, evaluate the model, and run the model on Youtube videos.
